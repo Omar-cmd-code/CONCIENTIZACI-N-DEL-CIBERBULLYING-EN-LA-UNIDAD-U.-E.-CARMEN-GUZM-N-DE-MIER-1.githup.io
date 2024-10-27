@@ -30,7 +30,7 @@ img{
 
     ),
     position: relative;
-    background-image: url('imagenes/8.jfif');
+    background-image: url(imagenes/8.jfif);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
