@@ -29,14 +29,15 @@ img{
         rgba(0,0,0,0.4)
 
     ),
-    url(imagenes/8.jfif);
+    position: relative;
+    background-image: url('imagenes/8.jfif');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
     align-items: center;
     min-height: 70vh;
-    padding: 50px 0 0 0;
+    padding: 20px 0 0 0;
 
 }
 
